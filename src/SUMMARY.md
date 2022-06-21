@@ -3,4 +3,4 @@
 [Homepage](./homepage.md)
 
 # Misc
-- [Chapter 1](./chapter_1.md)
+- [Getting Started](./getting_started.md)
