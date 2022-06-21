@@ -2,9 +2,9 @@
 
 [Homepage](./homepage.md)
 
-## Intruduction
+# Intruduction
 - [Getting Started](./getting_started.md)
 
-## Dev Branch
+# Dev Branch
 
 - [Scripting Engine](./DevBranch/scripting_engine.md)
