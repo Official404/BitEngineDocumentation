@@ -1,1 +1,3 @@
-# Hello World!
+# HomePage
+
+HomePage of the BitEngine Documentation!
