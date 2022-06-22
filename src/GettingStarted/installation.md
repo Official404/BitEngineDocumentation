@@ -19,9 +19,11 @@ After that you have to initialise and update the submodules. (This step can be d
 
 ```
 cd BitEngine
-
+```
+```
 git submodule init
-
+```
+```
 git submodule update
 ```
 
