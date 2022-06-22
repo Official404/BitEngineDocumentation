@@ -51,7 +51,7 @@ cd /Scripts/
 
 Some problems may occure wile runing the script.
 - It may ask you to install vulkan before continuing. Do so and run the script once again after it is done!
-- It may get stuck on asking you if you want to install a pakage for python. Press yes and then J´just press ```Ctrl + C``` and run the script again and it sould work.
+- It may get stuck on asking you if you want to install a pakage for python. Press yes and then just press ```Ctrl + C``` and run the script again and it sould work.
 
 ### Start Visual Studio
 After this press the solution file in the navigate back to the main folder and run the solutions file that has appeared.
