@@ -4,7 +4,7 @@ This guide will guid you thru the installation processs for Visual Studio 2019.
 
 You can start by following [Installation](./installation.md) guide and stop before you start running any scripts in the scripts folder.
 
-### Editing bat file
+### **Editing bat file**
 
 Before Running any scripts you will have to edit one script so that it build for Visual Studio 2019 instead of 2022.
 
