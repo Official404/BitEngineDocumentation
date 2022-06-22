@@ -4,7 +4,7 @@
 
 # Intruduction
 - [Getting Started](./GettingStarted/getting_started.md)
--- [Installation](./)
+-- [Installation](./GettingStarted/installation.md)
 
 # Dev Branch
 
