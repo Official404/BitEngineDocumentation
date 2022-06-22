@@ -5,6 +5,7 @@
 # Intruduction
 - [Getting Started](./GettingStarted/getting_started.md)
 - [Installation](./GettingStarted/installation.md)
+- [Installation for VisualStudio 2019](./GettingStarted/installation_for_visualstudio2019.md)
 
 # Dev Branch
 
