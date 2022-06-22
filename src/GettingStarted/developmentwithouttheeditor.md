@@ -100,7 +100,7 @@ include "MyProject"
 
 After all of this navigate to the scripts folder and run the ```Setup.bat``` file once again.
 
-After this is done start the ```BitEngine.sln````file again and you project should be in there without any problems.
+After this is done start the ```BitEngine.sln``` file again and you project should be in there without any problems.
 
 ### **Make a window appear**
 
